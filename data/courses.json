@@ -1,0 +1,32 @@
+[
+  {
+    "id": "01",
+    "name": "Web Design",
+    "photo_url": "https://i.postimg.cc/GtqXF9Mg/web-design.jpg"
+  },
+  {
+    "id": "02",
+    "name": "Web Development",
+    "photo_url": "https://i.postimg.cc/NjwK6bHV/web-developmet.png"
+  },
+  {
+    "id": "03",
+    "name": "Wordpress Design",
+    "photo_url": "https://i.postimg.cc/SRhRpfp3/wordpress.jpg"
+  },
+  {
+    "id": "04",
+    "name": "Digital Marketing",
+    "photo_url": "https://i.postimg.cc/nhgHJG42/digital-marketing.png"
+  },
+  {
+    "id": "05",
+    "name": "Graphics Design",
+    "photo_url": "https://i.postimg.cc/TwTBMK4Q/graphics-design.jpg"
+  },
+  {
+    "id": "06",
+    "name": "Video Editing",
+    "photo_url": "https://i.postimg.cc/rF7bynHD/video-editing.jpg"
+  }
+]

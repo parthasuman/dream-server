@@ -1,0 +1,116 @@
+[
+  {
+    "_id": "101",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": true
+    },
+    "course_id": "01",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_enroll": 488,
+    "title": "Basic Web Design",
+    "author": {
+      "name": "Partha",
+      "total_time": "About 6 mounth",
+      "img": "https://i.postimg.cc/V6K5988L/my.jpg"
+    },
+    "main_structure": "HTML, CSS, Bootstrap",
+    "image_url": "https://i.postimg.cc/GtqXF9Mg/web-design.jpg",
+    "details": "Once successful competition of this course we will provide real world client project if you are capable doing so. Also we will help you to create your freelancer career on freelancer.com or upwork marketplace. For outstanding performer we will provide few initial projects from real client and you will be able to communicate directly with those client"
+  },
+  {
+    "_id": "102",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": true
+    },
+    "course_id": "02",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_enroll": 488,
+    "title": "Web Development",
+    "author": {
+      "name": "Partha",
+      "total_time": "About 6 mounth",
+      "img": "https://i.postimg.cc/V6K5988L/my.jpg"
+    },
+    "main_structure": "HTML, CSS, javascript, React",
+    "image_url": "https://i.postimg.cc/NjwK6bHV/web-developmet.png",
+    "details": "Once successful competition of this course we will provide real world client project if you are capable doing so. Also we will help you to create your freelancer career on freelancer.com or upwork marketplace. For outstanding performer we will provide few initial projects from real client and you will be able to communicate directly with those client"
+  },
+  {
+    "_id": "103",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": true
+    },
+    "course_id": "03",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_enroll": 488,
+    "title": "Wordpress Design",
+    "author": {
+      "name": "Partha",
+      "total_time": "About 6 mounth",
+      "img": "https://i.postimg.cc/V6K5988L/my.jpg"
+    },
+    "main_structure": "HTML, CSS, Wordpress",
+    "image_url": "https://i.postimg.cc/SRhRpfp3/wordpress.jpg",
+    "details": "Once successful competition of this course we will provide real world client project if you are capable doing so. Also we will help you to create your freelancer career on freelancer.com or upwork marketplace. For outstanding performer we will provide few initial projects from real client and you will be able to communicate directly with those client"
+  },
+  {
+    "_id": "104",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": true
+    },
+    "course_id": "04",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_enroll": 488,
+    "title": "Digital Marketing",
+    "author": {
+      "name": "Partha",
+      "total_time": "About 6 mounth",
+      "img": "https://i.postimg.cc/V6K5988L/my.jpg"
+    },
+    "main_structure": "Facebook, Youtube Marketing",
+    "image_url": "https://i.postimg.cc/nhgHJG42/digital-marketing.png",
+    "details": "Once successful competition of this course we will provide real world client project if you are capable doing so. Also we will help you to create your freelancer career on freelancer.com or upwork marketplace. For outstanding performer we will provide few initial projects from real client and you will be able to communicate directly with those client"
+  },
+  {
+    "_id": "105",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": true
+    },
+    "course_id": "05",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_enroll": 488,
+    "title": "Graphics Design",
+    "author": {
+      "name": "Partha",
+      "total_time": "About 6 mounth",
+      "img": "https://i.postimg.cc/V6K5988L/my.jpg"
+    },
+    "main_structure": "PhotoShop, Elastrator",
+    "image_url": "https://i.postimg.cc/TwTBMK4Q/graphics-design.jpg",
+    "details": "Once successful competition of this course we will provide real world client project if you are capable doing so. Also we will help you to create your freelancer career on freelancer.com or upwork marketplace. For outstanding performer we will provide few initial projects from real client and you will be able to communicate directly with those client"
+  },
+  {
+    "_id": "106",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": true
+    },
+    "course_id": "06",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_enroll": 488,
+    "title": "Video Editing",
+    "author": {
+      "name": "Partha",
+      "total_time": "About 6 mounth",
+      "img": "https://i.postimg.cc/V6K5988L/my.jpg"
+    },
+    "main_structure": "Adobe Premiere Pro",
+    "image_url": "https://i.postimg.cc/rF7bynHD/video-editing.jpg",
+    "details": "Once successful competition of this course we will provide real world client project if you are capable doing so. Also we will help you to create your freelancer career on freelancer.com or upwork marketplace. For outstanding performer we will provide few initial projects from real client and you will be able to communicate directly with those client"
+  }
+]
